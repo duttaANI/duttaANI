@@ -1,4 +1,4 @@
-<img src="header.svg" width="800" height="400">
+<!-- <img src="header.svg" width="800" height="400"> -->
 
 
 ## &#x1f4c8; GitHub Stats
