@@ -1,5 +1,5 @@
-<!-- <img src="header.svg" width="800" height="400"> -->
-### Hi there 👋
+<img src="header.svg" width="400" height="200">
+<!-- ### Hi there 👋 -->
 
 ## &#x1f4c8; GitHub Stats
 
