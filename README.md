@@ -1,7 +1,7 @@
 <!-- <img src="header.svg" width="800" height="400"> -->
 ### Hi there 👋
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
