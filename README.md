@@ -9,7 +9,7 @@
 
 
 <a href="https://github.com/duttaANI/duttaANI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duttaANI&theme=nord&icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duttaANI&theme=nord&icons=true&hide=issues" />
 </a>
 
 <div><img src='https://komarev.com/ghpvc/?username=duttaANI&style=flat-square&label=PROFILE+VIEWS&color=ad03fc' alt='🌫' /></div>
