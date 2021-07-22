@@ -1,6 +1,11 @@
 <!-- <img src="header.svg" width="800" height="400"> -->
 ### Hi there 👋
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/duttaANI/duttaANI">
