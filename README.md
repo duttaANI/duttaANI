@@ -7,7 +7,7 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=duttaANI&show_icons=true&theme=tokyonight) -->
 
- ## &#x1f4c8; GitHub Stats
+<!--  ## &#x1f4c8; GitHub Stats -->
 
 <a href="https://github.com/duttaANI/duttaANI">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=duttaANI&theme=dark&icons=true" />
