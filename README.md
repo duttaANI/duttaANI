@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=duttaANI&theme=nord&icons=true&hide=issues" />
 </a>
 
-<div><img src='https://komarev.com/ghpvc/?username=duttaANI&style=flat-square&label=PROFILE+VIEWS&color=9ba7e8' alt='🌫' /></div>
+<div><img src='https://komarev.com/ghpvc/?username=duttaANI&style=flat-square&label=VISITORS&color=9ba7e8' alt='🌫' /></div>
 
 
 <!-- <a href="https://github.com/duttaANI/duttaANI">
