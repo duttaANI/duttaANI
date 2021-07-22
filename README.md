@@ -5,6 +5,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=duttaANI&show_icons=true&theme=tokyonight)
 
 <!-- ## &#x1f4c8; GitHub Stats
 
