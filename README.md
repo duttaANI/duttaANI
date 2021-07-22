@@ -10,7 +10,7 @@
 <!--  ## &#x1f4c8; GitHub Stats -->
 
 <a href="https://github.com/duttaANI/duttaANI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duttaANI&theme=dark&icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=duttaANI&theme=nord&icons=true" />
 </a>
 
 <!-- <a href="https://github.com/duttaANI/duttaANI">
