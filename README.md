@@ -13,6 +13,9 @@
 </a>
 
 <div><img src='https://komarev.com/ghpvc/?username=duttaANI&style=flat-square&label=VISITORS&color=9ba7e8' alt='🌫' /></div>
+  
+  <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duttaANI&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 </div>
 <!-- <a href="https://github.com/duttaANI/duttaANI">
