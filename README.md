@@ -14,8 +14,7 @@
 
 <div><img src='https://komarev.com/ghpvc/?username=duttaANI&style=flat-square&label=VISITORS&color=9ba7e8' alt='🌫' /></div>
   
-  <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/duttaANI/github-readme-stats)
-</div>
+  <div> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaANI&exclude_repo=PythonMagic&langs_count=8&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></div>
 
 </div>
 <!-- <a href="https://github.com/duttaANI/duttaANI">
