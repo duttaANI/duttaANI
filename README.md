@@ -14,7 +14,7 @@
 
 <div><img src='https://komarev.com/ghpvc/?username=duttaANI&style=flat-square&label=VISITORS&color=9ba7e8' alt='🌫' /></div>
   
-  <div> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaANI&exclude_repo=AR_solar_system,ImportUnityToAndroid &hide=jupyter%20notebook,C%23&langs_count=10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=283541" /></div>
+  <div> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaANI&exclude_repo=AR_solar_system,ImportUnityToAndroid &hide=jupyter%20notebook,C%23&langs_count=10&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=2E3942" /></div>
 
 </div>
 <!-- <a href="https://github.com/duttaANI/duttaANI">
@@ -22,5 +22,6 @@
 253340
 142B3E
 1D3040
+283541
 
 </a> -->
