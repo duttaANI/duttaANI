@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=duttaANI&theme=nord&icons=true&hide=issues" />
 </a>
 
-<div><img src='https://komarev.com/ghpvc/?username=duttaANI&style=flat-square&label=VISITORS&color=9ba7e8' alt='🌫' /></div>
+<div><img src='https://komarev.com/ghpvc/?username=duttaANI&style=flat-square&label=VISITORS&color=81a1c1' alt='🌫' /></div>
   
   <div> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaANI&exclude_repo=AR_solar_system,ImportUnityToAndroid &hide=jupyter%20notebook,C%23&langs_count=10&layout=compact&title_color=81a1c1&text_color=E5E9F0&icon_color=2bbc8a&bg_color=2e3440" /></div>
 
