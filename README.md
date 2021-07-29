@@ -15,6 +15,10 @@
 <div><img src='https://komarev.com/ghpvc/?username=duttaANI&style=flat-square&label=VISITORS&color=81a1c1' alt='🌫' /></div>
   
   <div> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaANI&exclude_repo=AR_solar_system,ImportUnityToAndroid &hide=jupyter%20notebook,C%23&langs_count=10&layout=compact&title_color=81a1c1&text_color=E5E9F0&icon_color=2bbc8a&bg_color=2e3440" /></div>
+  
+## &#x1f4c8; Contribution Stats
+
+[![ github activity graph](https://activity-graph.herokuapp.com/graph?username=duttaANI&theme=react-dark)](https://github.com/duttaANI)
 
 </div>
 <!-- <a href="https://github.com/duttaANI/duttaANI">
