@@ -18,7 +18,7 @@
   
 ## &#x1f4c8; Contribution Stats
 
-[![ github activity graph](https://activity-graph.herokuapp.com/graph?username=duttaANI&theme=react-dark)](https://github.com/duttaANI)
+[![ github activity graph](https://activity-graph.herokuapp.com/graph?username=duttaANI&theme=nord)](https://github.com/duttaANI)
 
 </div>
 <!-- <a href="https://github.com/duttaANI/duttaANI">
