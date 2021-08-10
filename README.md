@@ -16,7 +16,7 @@
   
   <div> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaANI&exclude_repo=AR_solar_system,ImportUnityToAndroid &hide=jupyter%20notebook,C%23&langs_count=10&layout=compact&title_color=81a1c1&text_color=E5E9F0&icon_color=2bbc8a&bg_color=2e3440" /></div>
   
-## &#x1f4c8; Contribution Stats
+
 
 [![ github activity graph](https://activity-graph.herokuapp.com/graph?username=duttaANI&bg_color=2E3440&color=D8DEE9&line=81A1C1&point=5E81AC&area=true&hide_border=true)](https://github.com/duttaANI)
 
