@@ -35,4 +35,6 @@
 <!-- <a href="https://github.com/duttaANI/duttaANI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duttaANI&exclude_repo=PythonMagic&langs_count=8&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 https://www.nordtheme.com/
+
+ <div><img src='https://img.shields.io/github/issues-search/Elskom/Sdk?label=merged%20PRs&query=is%3Apr+is%3Aclosed+is%3Amerged' /></div>
 </a> -->
