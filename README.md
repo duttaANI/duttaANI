@@ -31,7 +31,7 @@
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
   
-<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=duttaANI&theme=react" />
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=duttaANI&theme=nord" />
 
 </div>
 <!-- <a href="https://github.com/duttaANI/duttaANI">
