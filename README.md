@@ -4,6 +4,7 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [MongoDB Realm functions](https://duttaaniruddha31.medium.com/mongodb-realm-functions-55c9779a7d0a)
+- [minimum jumps required to reach all array elements using largest element](https://www.geeksforgeeks.org/minimum-jumps-required-to-reach-all-array-elements-using-largest-element/)
 
 <!-- BLOG-POST-LIST:END -->
 
